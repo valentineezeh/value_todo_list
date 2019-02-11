@@ -1,0 +1,6 @@
+source venv/Scripts/activate
+export FLASK_APP="run.py"
+export SECRET=
+export APP_SETTINGS=
+export DATABASE_URL=
+export TEST_DATABASE_URL=
